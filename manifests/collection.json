@@ -11,5 +11,11 @@
       "en" : [ "Tina_Project" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://tinam8t-brissie.github.io/Project_Tina_2026-07/manifests/manifest1.json",
+    "label" : {
+      "en" : [ "Tina_Project" ]
+    },
+    "type" : "Manifest"
   } ]
 }

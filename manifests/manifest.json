@@ -83,6 +83,13 @@
           } ]
         }
       } ]
+    } ],
+    "annotations" : [ {
+      "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/qoittvraqn-mquqw0hx/annotations/ciw3wyaqi1-mrx6e9in",
+      "type" : "AnnotationPage",
+      "label" : {
+        "en" : [ "Inline annotations" ]
+      }
     } ]
   }, {
     "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/lbznvqq0foh-mquqs4mg",
@@ -154,6 +161,57 @@
             "@context" : "http://iiif.io/api/image/3/context.json",
             "height" : 1295
           } ]
+        }
+      } ]
+    } ],
+    "annotations" : [ {
+      "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/lbznvqq0foh-mquqs4mg/annotations/c49l4kyims-mrx6drl1",
+      "type" : "AnnotationPage",
+      "label" : {
+        "en" : [ "Inline annotations" ]
+      },
+      "items" : [ {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/lbznvqq0foh-mquqs4mg/annotations/c49l4kyims-mrx6drl1/annotation/646a7iwpi7l-mrx6fr36",
+        "type" : "Annotation",
+        "motivation" : "tagging",
+        "target" : {
+          "type" : "SpecificResource",
+          "source" : "https://example.org/akb8arsqqu-mquqcic6/canvas/lbznvqq0foh-mquqs4mg",
+          "selector" : [ {
+            "type" : "FragmentSelector",
+            "value" : "xywh=647,714,241,160"
+          } ]
+        },
+        "body" : {
+          "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/lbznvqq0foh-mquqs4mg/annotations/c49l4kyims-mrx6drl1/annotation/646a7iwpi7l-mrx6fr36/html/en/djcot8gj2rn-mrx6fr36",
+          "type" : "TextualBody",
+          "format" : "text/html",
+          "language" : "en",
+          "value" : "<p>Headmaster J.R. Loney (1898-1890) with his wife.</p>"
+        }
+      }, {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/lbznvqq0foh-mquqs4mg/annotations/c49l4kyims-mrx6drl1/annotation/31cy8veubic-mrx6gf8h",
+        "type" : "Annotation",
+        "motivation" : "tagging",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/lbznvqq0foh-mquqs4mg#xywh=43,578,405,329",
+        "body" : {
+          "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/lbznvqq0foh-mquqs4mg/annotations/c49l4kyims-mrx6drl1/annotation/31cy8veubic-mrx6gf8h/html/en/u166fwu2sid-mrx6gf8h",
+          "type" : "TextualBody",
+          "format" : "text/html",
+          "language" : "en",
+          "value" : "<p>Headmaster's residence.</p>"
+        }
+      }, {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/lbznvqq0foh-mquqs4mg/annotations/c49l4kyims-mrx6drl1/annotation/oq8l4yzvdk-mrx6gyag",
+        "type" : "Annotation",
+        "motivation" : "tagging",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/lbznvqq0foh-mquqs4mg#xywh=1290,517,452,480",
+        "body" : {
+          "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/lbznvqq0foh-mquqs4mg/annotations/c49l4kyims-mrx6drl1/annotation/oq8l4yzvdk-mrx6gyag/html/en/ih7db9fd5hh-mrx6gyag",
+          "type" : "TextualBody",
+          "format" : "text/html",
+          "language" : "en",
+          "value" : "<p>School shed, which was used for play and shading during break times.</p>"
         }
       } ]
     } ],
@@ -238,6 +296,254 @@
             "@context" : "http://iiif.io/api/image/3/context.json",
             "height" : 10200
           } ]
+        }
+      } ]
+    } ],
+    "annotations" : [ {
+      "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789",
+      "type" : "AnnotationPage",
+      "label" : {
+        "en" : [ "Inline annotations" ]
+      },
+      "items" : [ {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/7i2lhksjp4u-mrx6hmkj",
+        "type" : "Annotation",
+        "motivation" : "tagging",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys#xywh=1711,521,1045,1294",
+        "body" : {
+          "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/7i2lhksjp4u-mrx6hmkj/html/en/6pydrwkgpev-mrx6hmkk",
+          "type" : "TextualBody",
+          "format" : "text/html",
+          "language" : "en",
+          "value" : "<p>Vernon Rees</p>"
+        }
+      }, {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/odpiyvmrbw-mrx6hv40",
+        "type" : "Annotation",
+        "motivation" : "tagging",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys#xywh=3792,434,1305,1433",
+        "body" : {
+          "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/odpiyvmrbw-mrx6hv40/html/en/xelq3xctm1-mrx6hv40",
+          "type" : "TextualBody",
+          "format" : "text/html",
+          "language" : "en",
+          "value" : "<p>Fred?</p>"
+        }
+      }, {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/llic2s5iab-mrx6i42q",
+        "type" : "Annotation",
+        "motivation" : "tagging",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys#xywh=6439,46,1209,1119",
+        "body" : {
+          "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/llic2s5iab-mrx6i42q/html/en/cxu5i69s6eh-mrx6i42r",
+          "type" : "TextualBody",
+          "format" : "text/html",
+          "language" : "en",
+          "value" : "<p>Fred Wagner</p>"
+        }
+      }, {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/w0u2vbwa0w-mrx6idc8",
+        "type" : "Annotation",
+        "motivation" : "tagging",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys#xywh=8309,195,1012,1280",
+        "body" : {
+          "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/w0u2vbwa0w-mrx6idc8/html/en/mxyjysjstn-mrx6idc8",
+          "type" : "TextualBody",
+          "format" : "text/html",
+          "language" : "en",
+          "value" : "<p>Ernie Yelland</p>"
+        }
+      }, {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/wcczobzlc3l-mrx6ilny",
+        "type" : "Annotation",
+        "motivation" : "tagging",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys#xywh=10201,248,1126,1519",
+        "body" : {
+          "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/wcczobzlc3l-mrx6ilny/html/en/sqrr3r7x45-mrx6ilny",
+          "type" : "TextualBody",
+          "format" : "text/html",
+          "language" : "en",
+          "value" : "<p>Hugh Strong</p>"
+        }
+      }, {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/3u4hjra9a0y-mrx6isnj",
+        "type" : "Annotation",
+        "motivation" : "tagging",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys#xywh=11937,97,1394,1317",
+        "body" : {
+          "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/3u4hjra9a0y-mrx6isnj/html/en/naotx6e6usl-mrx6isnj",
+          "type" : "TextualBody",
+          "format" : "text/html",
+          "language" : "en",
+          "value" : "<p>Vince Carmody</p>"
+        }
+      }, {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/885okmczt1q-mrx6j01t",
+        "type" : "Annotation",
+        "motivation" : "tagging",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys#xywh=2103,1798,1125,1419",
+        "body" : {
+          "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/885okmczt1q-mrx6j01t/html/en/59gzvtq2gdk-mrx6j01t",
+          "type" : "TextualBody",
+          "format" : "text/html",
+          "language" : "en",
+          "value" : "<p>Dick Jones</p>"
+        }
+      }, {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/cf8s8klkjs-mrx6jcnd",
+        "type" : "Annotation",
+        "motivation" : "tagging",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys#xywh=5099,2318,1198,1484",
+        "body" : {
+          "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/cf8s8klkjs-mrx6jcnd/html/en/3a4cbkr5n6q-mrx6jcnd",
+          "type" : "TextualBody",
+          "format" : "text/html",
+          "language" : "en",
+          "value" : "<p>George Lamont</p>"
+        }
+      }, {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/pf1ntd3anf-mrx6jj7v",
+        "type" : "Annotation",
+        "motivation" : "tagging",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys#xywh=7335,2116,1185,1529",
+        "body" : {
+          "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/pf1ntd3anf-mrx6jj7v/html/en/lqtj30ugkm-mrx6jj7v",
+          "type" : "TextualBody",
+          "format" : "text/html",
+          "language" : "en",
+          "value" : "<p>Lloyd Rees</p>"
+        }
+      }, {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/7x4om0zm6jp-mrx6jsgr",
+        "type" : "Annotation",
+        "motivation" : "tagging",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys#xywh=9063,2404,1178,1498",
+        "body" : {
+          "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/7x4om0zm6jp-mrx6jsgr/html/en/ptb2yppus9-mrx6jsgr",
+          "type" : "TextualBody",
+          "format" : "text/html",
+          "language" : "en",
+          "value" : "<p>Jack Wagner</p>"
+        }
+      }, {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/8s76vdgokc3-mrx6k0ju",
+        "type" : "Annotation",
+        "motivation" : "tagging",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys#xywh=11564,2488,1449,1499",
+        "body" : {
+          "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/8s76vdgokc3-mrx6k0ju/html/en/mcwh7f9b0o-mrx6k0ju",
+          "type" : "TextualBody",
+          "format" : "text/html",
+          "language" : "en",
+          "value" : "<p>Arthur Cramb</p>"
+        }
+      }, {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/xwbkwqk0s6-mrx6k6w4",
+        "type" : "Annotation",
+        "motivation" : "tagging",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys#xywh=218,2628,1437,1957",
+        "body" : {
+          "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/xwbkwqk0s6-mrx6k6w4/html/en/r96cmaar2d-mrx6k6w4",
+          "type" : "TextualBody",
+          "format" : "text/html",
+          "language" : "en",
+          "value" : "<p>Joseph Wagner</p>"
+        }
+      }, {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/q27o7pmiycm-mrx6kjiv",
+        "type" : "Annotation",
+        "motivation" : "tagging",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys#xywh=3717,4687,1021,1600",
+        "body" : {
+          "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/q27o7pmiycm-mrx6kjiv/html/en/6ix4r3fnevf-mrx6kjiv",
+          "type" : "TextualBody",
+          "format" : "text/html",
+          "language" : "en",
+          "value" : "<p>Arty Milazewski?</p>"
+        }
+      }, {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/h349pzscf6u-mrx6kprw",
+        "type" : "Annotation",
+        "motivation" : "tagging",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys#xywh=1482,5156,1329,1726",
+        "body" : {
+          "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/h349pzscf6u-mrx6kprw/html/en/616ysfzvf8g-mrx6kprw",
+          "type" : "TextualBody",
+          "format" : "text/html",
+          "language" : "en",
+          "value" : "<p>Ethel Wagner</p>"
+        }
+      }, {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/24baaq5kjmc-mrx6kx3n",
+        "type" : "Annotation",
+        "motivation" : "tagging",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys#xywh=6581,4018,1343,1818",
+        "body" : {
+          "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/24baaq5kjmc-mrx6kx3n/html/en/dcpf8hlicmi-mrx6kx3n",
+          "type" : "TextualBody",
+          "format" : "text/html",
+          "language" : "en",
+          "value" : "<p>Walter Yelland</p>"
+        }
+      }, {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/ikden0jc85d-mrx6l5sk",
+        "type" : "Annotation",
+        "motivation" : "tagging",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys#xywh=10351,4435,1448,1629",
+        "body" : {
+          "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/ikden0jc85d-mrx6l5sk/html/en/kakrdedcv0k-mrx6l5sk",
+          "type" : "TextualBody",
+          "format" : "text/html",
+          "language" : "en",
+          "value" : "<p>Frank Dopson</p>"
+        }
+      }, {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/ddb5nnqt13q-mrx6ldr4",
+        "type" : "Annotation",
+        "motivation" : "tagging",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys#xywh=3025,6207,1135,1566",
+        "body" : {
+          "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/ddb5nnqt13q-mrx6ldr4/html/en/dpjtlg3uibv-mrx6ldr4",
+          "type" : "TextualBody",
+          "format" : "text/html",
+          "language" : "en",
+          "value" : "<p>Isobil Robertson</p>"
+        }
+      }, {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/e4hju8hew8-mrx6lkqz",
+        "type" : "Annotation",
+        "motivation" : "tagging",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys#xywh=5553,6196,1268,1645",
+        "body" : {
+          "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/e4hju8hew8-mrx6lkqz/html/en/jelgu4chh88-mrx6lkqz",
+          "type" : "TextualBody",
+          "format" : "text/html",
+          "language" : "en",
+          "value" : "<p>Gertie Yelland</p>"
+        }
+      }, {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/3boiiaobl6-mrx6lsjz",
+        "type" : "Annotation",
+        "motivation" : "tagging",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys#xywh=9232,5261,1442,1815",
+        "body" : {
+          "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/3boiiaobl6-mrx6lsjz/html/en/kq10rbh6iy-mrx6lsjz",
+          "type" : "TextualBody",
+          "format" : "text/html",
+          "language" : "en",
+          "value" : "<p>Frieda Keith</p>"
+        }
+      }, {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/ojkp5eto4un-mrx6m0ew",
+        "type" : "Annotation",
+        "motivation" : "tagging",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys#xywh=11797,5485,1247,1926",
+        "body" : {
+          "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/uxc7g7308b-mquqpeys/annotations/jw3dfklqn8-mrx6h789/annotation/ojkp5eto4un-mrx6m0ew/html/en/j34di0f4is-mrx6m0ew",
+          "type" : "TextualBody",
+          "format" : "text/html",
+          "language" : "en",
+          "value" : "<p>Elsie Wagner</p>"
         }
       } ]
     } ],
@@ -398,6 +704,38 @@
         }
       } ]
     } ],
+    "annotations" : [ {
+      "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/rfrjt8l05e-mquqkxs5/annotations/6lla2lvxj-mrx6nm8z",
+      "type" : "AnnotationPage",
+      "label" : {
+        "en" : [ "Inline annotations" ]
+      },
+      "items" : [ {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/rfrjt8l05e-mquqkxs5/annotations/6lla2lvxj-mrx6nm8z/annotation/nu86jhf7e8p-mrx6nvpm",
+        "type" : "Annotation",
+        "motivation" : "tagging",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/rfrjt8l05e-mquqkxs5#xywh=1594,1546,3533,1661",
+        "body" : {
+          "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/rfrjt8l05e-mquqkxs5/annotations/6lla2lvxj-mrx6nm8z/annotation/nu86jhf7e8p-mrx6nvpm/html/en/v77ssi9avar-mrx6nvpm",
+          "type" : "TextualBody",
+          "format" : "text/html",
+          "language" : "en",
+          "value" : "<p>Headmaster's residence</p>"
+        }
+      }, {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/rfrjt8l05e-mquqkxs5/annotations/6lla2lvxj-mrx6nm8z/annotation/suhah8tv99-mrx6o3le",
+        "type" : "Annotation",
+        "motivation" : "tagging",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/rfrjt8l05e-mquqkxs5#xywh=4882,545,1725,2744",
+        "body" : {
+          "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/rfrjt8l05e-mquqkxs5/annotations/6lla2lvxj-mrx6nm8z/annotation/suhah8tv99-mrx6o3le/html/en/2mzu37hezvi-mrx6o3le",
+          "type" : "TextualBody",
+          "format" : "text/html",
+          "language" : "en",
+          "value" : "<p>School building</p>"
+        }
+      } ]
+    } ],
     "navPlace" : {
       "type" : "FeatureCollection",
       "features" : [ {
@@ -486,6 +824,26 @@
             "@context" : "http://iiif.io/api/image/3/context.json",
             "height" : 4553
           } ]
+        }
+      } ]
+    } ],
+    "annotations" : [ {
+      "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/ad52wf3cjmd-mquqlgia/annotations/8dzaahypf2w-mrx6mfnc",
+      "type" : "AnnotationPage",
+      "label" : {
+        "en" : [ "Inline annotations" ]
+      },
+      "items" : [ {
+        "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/ad52wf3cjmd-mquqlgia/annotations/8dzaahypf2w-mrx6mfnc/annotation/avd2ysife2d-mrx6nh2o",
+        "type" : "Annotation",
+        "motivation" : "tagging",
+        "target" : "https://example.org/akb8arsqqu-mquqcic6/canvas/ad52wf3cjmd-mquqlgia#xywh=1485,214,5310,1078",
+        "body" : {
+          "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/ad52wf3cjmd-mquqlgia/annotations/8dzaahypf2w-mrx6mfnc/annotation/avd2ysife2d-mrx6nh2o/html/en/193xvyfnn5s-mrx6nh2o",
+          "type" : "TextualBody",
+          "format" : "text/html",
+          "language" : "en",
+          "value" : "<p>The Ironsides school House + portion of School</p>\n<p>later moved down to River</p>\n<p>+ used as Church Hall</p>\n<p>later picture shown</p>"
         }
       } ]
     } ],
@@ -1549,6 +1907,13 @@
           } ]
         }
       } ]
+    } ],
+    "annotations" : [ {
+      "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/jbrvziqj7ue-mquqsmde/annotations/2hhlrm90pyt-mrx1sr6q",
+      "type" : "AnnotationPage",
+      "label" : {
+        "en" : [ "Inline annotations" ]
+      }
     } ]
   }, {
     "id" : "https://example.org/akb8arsqqu-mquqcic6/canvas/hjmz3l0lik-mquqqfsu",

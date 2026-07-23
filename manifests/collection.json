@@ -1,0 +1,15 @@
+{
+  "id" : "https://tinam8t-brissie.github.io/Project_Tina_2026-07/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in tinam8t-brissie/Project_Tina_2026-07 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://tinam8t-brissie.github.io/Project_Tina_2026-07/manifests/manifest.json",
+    "label" : {
+      "en" : [ "Tina_Project" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
